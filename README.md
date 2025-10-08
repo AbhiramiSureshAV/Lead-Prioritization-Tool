@@ -1,4 +1,3 @@
-# Lead-Prioritization-Tool
 # 🎯 SaaSquatch AI Lead Prioritizer
 
 **✨ A Professional AI-Powered Lead Intelligence Platform ✨**
